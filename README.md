@@ -1,4 +1,4 @@
-# 🇨🇦 Canada Job Market Analyzer
+# Canada Job Market Analyzer
 
 An automated data pipeline and interactive dashboard that tracks in-demand skills, salary ranges, and hiring trends across Canadian data & analytics job postings.
 
@@ -8,7 +8,7 @@ Built with Python, SQLite, Plotly, and Streamlit. Automated weekly via GitHub Ac
 
 ## Dashboard Preview
 
-> Run the app locally to see the interactive dashboard (see Setup below).
+> Running the app locally will allow you to see the interactive dashboard (see Setup below).
 > Includes: top skills chart, jobs by role, salary by role, location heatmap, monthly trend.
 
 ---
