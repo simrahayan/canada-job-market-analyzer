@@ -1,0 +1,6 @@
+query,avg_salary,min_salary,max_salary,count
+business analyst,89544.0,77.5,208000.0,19
+business intelligence analyst,112331.0,72500.0,199680.0,18
+data analyst,81955.0,7618.5,140000.0,28
+data scientist,97030.0,55.0,180000.0,26
+machine learning engineer,142057.0,77.0,270750.0,18
